@@ -1,0 +1,19 @@
+{
+  "name": "spotify-fam-reminder-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickchauk47/Spotify-Fam-Reminder-Lambda.git"
+  },
+  "author": "nickchauk47",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickchauk47/Spotify-Fam-Reminder-Lambda/issues"
+  },
+  "homepage": "https://github.com/nickchauk47/Spotify-Fam-Reminder-Lambda#readme"
+}
